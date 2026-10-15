@@ -54,6 +54,8 @@ For a detailed introduction, full list of features and architecture overview ple
 - [Contributors](#contributors)
 - [Licensing](#licensing)
 
+<!-- retrigger 2 -->
+
 ## Setup
 
 > You can find some less common installation variations as well as instructions to run Juice Shop on a variety of cloud computing providers in
